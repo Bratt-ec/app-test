@@ -3,6 +3,7 @@
 # Recursos necesarios
 ```
 expo-cli:  npm install -g expo-cli
+App ExpoGO en su Smartphone O Emulador Android.
 ```
 
 # INSTALACIÓN
